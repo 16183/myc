@@ -11,7 +11,6 @@ const MyWeb3 ={
         '4': Rinkeby Test Network
         '5': Goerli Test Network
         '42': Kovan Test Network
-        '66': OKExChain Mainnet
         */
         return new Promise((resolve, reject) => {
             //let currentChainId = parseInt(window.ethereum.chainId, 16)
