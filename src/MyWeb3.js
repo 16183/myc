@@ -5,7 +5,7 @@ import ContractAddress from './ContractAddress'
 const MyWeb3 ={
     init() {
         /*
-        '1': Ethereum Main Network
+        '66': OKExChain Mainnet
         '2': Morden Test network
         '3': Ropsten Test Network
         '4': Rinkeby Test Network
